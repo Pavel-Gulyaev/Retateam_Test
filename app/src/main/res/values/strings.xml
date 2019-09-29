@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rentateam_Test</string>
+
+    <string name="no_users">Oops! No result found.</string>
+    <string name="error_data">Something went wrong! Please try again later.</string>
+    <string name="done">Done</string>
+    <string name="communication_error">Error in getting data. Please try again later.</string>
+    <string name="SQLite_error">Error in getting data. Database is empty.</string>
+    <string name="users">Users</string>
+    <string name="info">Тестовое задание для Rentateam</string>
+    <string name="title_home">Home</string>
+    <string name="title_info">Info</string>
+</resources>
